@@ -48,16 +48,6 @@ Focused on creating practical projects, improving software architecture knowledg
 
 ---
 
-## GitHub Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Lahnsea&theme=onestar&no-frame=true&row=1&column=6"/>
-
-</p>
-
----
-
 ## Development Metrics
 
 <p align="center">
