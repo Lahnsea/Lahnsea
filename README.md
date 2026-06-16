@@ -1,86 +1,130 @@
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:000000,50:111827,100:000000&text=moonisnthere&fontColor=ffffff&fontSize=48&fontAlignY=40&animation=fadeIn"/>
+</p>
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1200&color=E6EDF3&center=true&vCenter=true&width=480&lines=Fadlan+%2F+moonisnthere;Software+Engineering+Student;Building+things+that+work." alt="header" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Software+Engineering+Student;Web+Developer;Backend+Enthusiast;Game+Developer;Always+Building+Something" />
 
-<br/>
+<br>
 
-[![](https://img.shields.io/badge/Indonesia-555?style=flat-square&logo=googlemaps&logoColor=white)](#)
-[![](https://img.shields.io/badge/Open%20to%20collab-238636?style=flat-square)](#)
-[![](https://komarev.com/ghpvc/?username=Lahnsea&color=555&style=flat-square&label=profile+views)](#)
+### Software Engineering Student
+
+*Web Development • Backend Engineering • Game Development*
 
 </div>
 
-<br/>
+---
+
+## About
+
+Software Engineering student passionate about building web applications, backend systems, and interactive experiences through game development.
+
+Focused on creating practical projects, improving software architecture knowledge, and continuously learning modern development technologies.
 
 ---
 
-I'm a software engineering student from Indonesia who enjoys building things across the stack — web apps, games, and mobile. Most of my projects start as curiosity and end as either something useful or a very educational failure.
+## Technologies
 
-Currently focused on sharpening my backend fundamentals while finishing projects I've actually started.
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=cs,php,dart,js,html,css,laravel,flutter,mysql,git,github,vscode,unity" />
+
+</p>
 
 ---
 
-### Tech
+## Selected Projects
 
+| Project | Description | Technology |
+|----------|-------------|------------|
+| **Atheria** | Fantasy RPG game project | Unity • C# |
+| **Perpus** | Library management system | Laravel • PHP • MySQL |
+| **Flutter KRL** | Commuter rail mobile application | Flutter • Dart |
+| **Portfolio** | Personal portfolio website | HTML • CSS • JavaScript |
+| **Bomberman** | Classic Bomberman remake | Unity • C# |
+| **Pong2D** | Arcade game project | C# |
+
+---
+
+## GitHub Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Lahnsea&theme=onestar&no-frame=true&row=1&column=6"/>
+
+</p>
+
+---
+
+## Development Metrics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Lahnsea&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lahnsea&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Lahnsea&theme=github-dark-blue&hide_border=true"/>
+
+</p>
+
+---
+
+## Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lahnsea&bg_color=0d1117&color=e6edf3&line=58A6FF&point=58A6FF&area=true&hide_border=true"/>
+
+</p>
+
+---
+
+## Current Focus
+
+- Backend Development
+- Software Architecture
+- Mobile Applications
+- Game Development
+- Problem Solving
+
+---
+
+## 2026 Roadmap
+
+- [ ] Publish a complete game project
+- [ ] Strengthen backend architecture knowledge
+- [ ] Build production-ready applications
+- [ ] Contribute to open-source projects
+- [ ] Expand full-stack development skills
+
+---
+
+## Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Lahnsea/Lahnsea/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+<div align="center">
+
+### Building software, one project at a time.
+
+<img src="https://komarev.com/ghpvc/?username=Lahnsea&label=Profile%20Views&color=0e75b6&style=flat" />
+
+</div>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:000000,50:111827,100:000000"/>
+</p>
 ```
-Languages    C#  ·  Dart  ·  PHP  ·  CSS
-Frameworks   Laravel  ·  Flutter  ·  Blade
-Tools        Git  ·  MySQL  ·  VS Code
-```
-
----
-
-### Projects
-
-| Project | What it does | Stack |
-|---------|-------------|-------|
-| [**perpus**](https://github.com/Lahnsea/perpus) | Library management system | PHP · Blade |
-| [**atheria-game**](https://github.com/Lahnsea/atheria-game) | Fantasy RPG — in progress | C# · Unity |
-| [**portofolio**](https://github.com/Lahnsea/portofolio) | Personal website | CSS |
-| [**flutter-krl**](https://github.com/Lahnsea/flutter-krl) | Commuter rail mobile app | Dart · Flutter |
-| [**pong2D**](https://github.com/Lahnsea/pong2D) | Classic arcade game | C# |
-
----
-
-### Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Lahnsea&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e6edf3&icon_color=58A6FF&text_color=8b949e&hide_rank=false" />
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lahnsea&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Lahnsea&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e&currStreakNum=e6edf3&sideNums=e6edf3&stroke=21262d" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lahnsea&bg_color=0d1117&color=8b949e&line=58A6FF&point=e6edf3&area=true&area_color=1f3a5f&hide_border=true" />
-
-</div>
-
----
-
-### 2026
-
-- [ ] Ship a complete game
-- [ ] Deepen backend architecture knowledge
-- [ ] Build tools people actually use
-- [ ] Finish before starting
-
----
-
-<div align="center">
-
-*"Sometimes the bug isn't in the code. Sometimes it's in the developer."*
-
-<br/>
-
-[![Email](https://img.shields.io/badge/kkuki1225%40gmail.com-555?style=flat-square&logo=gmail&logoColor=white)](mailto:kkuki1225@gmail.com)
-
-</div>
