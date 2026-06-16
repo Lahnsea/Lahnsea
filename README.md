@@ -5,13 +5,13 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Software+Engineering+Student;Web+Developer;Backend+Enthusiast;Game+Developer;Always+Building+Something" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Web+Developer;Backend+Enthusiast;Game+Developer;Building+Things+That+Sometimes+Work" />
 
 <br>
 
-### Software Engineering Student
+Software Engineering Student
 
-*Web Development • Backend Engineering • Game Development*
+Web Development • Backend • Game Development
 
 </div>
 
@@ -19,13 +19,13 @@
 
 ## About
 
-Software Engineering student passionate about building web applications, backend systems, and interactive experiences through game development.
+I'm Fadlan, a Software Engineering student from Indonesia.
 
-Focused on creating practical projects, improving software architecture knowledge, and continuously learning modern development technologies.
+I enjoy building web applications, backend systems, and game projects while continuously exploring new technologies and improving my development skills.
 
 ---
 
-## Technologies
+## Tech Stack
 
 <p align="center">
 
@@ -35,37 +35,31 @@ Focused on creating practical projects, improving software architecture knowledg
 
 ---
 
-## Selected Projects
+## Featured Projects
 
-| Project | Description | Technology |
-|----------|-------------|------------|
-| **Atheria** | Fantasy RPG game project | Unity • C# |
-| **Perpus** | Library management system | Laravel • PHP • MySQL |
-| **Flutter KRL** | Commuter rail mobile application | Flutter • Dart |
-| **Portfolio** | Personal portfolio website | HTML • CSS • JavaScript |
-| **Pong2D** | Arcade game project | C# |
+| Project | Description |
+|----------|-------------|
+| 🎮 **Atheria** | Fantasy RPG game built with Unity |
+| 📚 **Perpus** | Library management system using Laravel |
+| 🚆 **Flutter KRL** | Mobile commuter rail application |
+| 🌐 **Portfolio** | Personal portfolio website |
+| 🏓 **Pong2D** | Classic arcade game project |
 
 ---
 
-## Development Metrics
+## GitHub Statistics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Lahnsea&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Lahnsea&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lahnsea&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Lahnsea&theme=github-dark-blue&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lahnsea&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
 ---
 
-## Activity Graph
+## Development Activity
 
 <p align="center">
 
@@ -75,45 +69,37 @@ Focused on creating practical projects, improving software architecture knowledg
 
 ---
 
-## Current Focus
-
-- Backend Development
-- Software Architecture
-- Mobile Applications
-- Game Development
-- Problem Solving
-
----
-
-## 2026 Roadmap
-
-- [ ] Publish a complete game project
-- [ ] Strengthen backend architecture knowledge
-- [ ] Build production-ready applications
-- [ ] Contribute to open-source projects
-- [ ] Expand full-stack development skills
-
----
-
-## Contribution Snake
+## Contribution Pacman
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/Lahnsea/Lahnsea/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/Lahnsea/Lahnsea/output/pacman-contribution-graph-dark.svg"/>
 
 </p>
 
 ---
 
+## Current Focus
+
+```txt
+Backend Development
+Software Architecture
+Mobile Applications
+Game Development
+````
+
+---
+
 <div align="center">
 
-### Building software, one project at a time.
+"Still learning. Still building."
 
-<img src="https://komarev.com/ghpvc/?username=Lahnsea&label=Profile%20Views&color=0e75b6&style=flat" />
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Lahnsea&label=Profile+Views&color=0e75b6&style=flat" />
 
 </div>
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:000000,50:111827,100:000000"/>
 </p>
-```
