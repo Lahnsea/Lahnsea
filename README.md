@@ -43,7 +43,6 @@ Focused on creating practical projects, improving software architecture knowledg
 | **Perpus** | Library management system | Laravel • PHP • MySQL |
 | **Flutter KRL** | Commuter rail mobile application | Flutter • Dart |
 | **Portfolio** | Personal portfolio website | HTML • CSS • JavaScript |
-| **Bomberman** | Classic Bomberman remake | Unity • C# |
 | **Pong2D** | Arcade game project | C# |
 
 ---
