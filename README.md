@@ -1,7 +1,14 @@
 
+
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:000000,50:111827,100:000000&text=moonisnthere&fontColor=ffffff&fontSize=48&fontAlignY=40&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:2e1065,35:6d28d9,70:a855f7,100:e879f9"/>
 </p>
+<div align="center">
+
+# ᴍᴏᴏɴɪsɴᴛʜᴇʀᴇ
+### Software Engineering Student
+
+</div>
 
 <div align="center">
 
@@ -9,7 +16,7 @@
 
 <br>
 
-Software Engineering Student
+
 
 Web Development • Backend • Game Development
 
@@ -102,5 +109,5 @@ Backend Development • Software Architecture • Mobile Development • Game De
 </div>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:000000,50:111827,100:000000"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:2e1065,35:6d28d9,70:a855f7,100:e879f9"/>
 </p>
