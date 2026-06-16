@@ -77,24 +77,27 @@ I enjoy building web applications, backend systems, and game projects while cont
 
 ---
 
-## Current Focus
+---
 
-```txt
-Backend Development
-Software Architecture
-Mobile Applications
-Game Development
-````
+## Focus Areas
+
+<div align="center">
+
+Backend Development • Software Architecture • Mobile Development • Game Development
+
+</div>
 
 ---
 
 <div align="center">
 
-"Still learning. Still building."
+### Building software, one project at a time.
+
+<sub>Still learning. Still building.</sub>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Lahnsea&label=Profile+Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=Lahnsea&label=Profile%20Views&color=0e75b6&style=flat" />
 
 </div>
 
