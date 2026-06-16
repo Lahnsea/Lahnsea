@@ -72,9 +72,7 @@ I enjoy building web applications, backend systems, and game projects while cont
 ## Contribution Pacman
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/Lahnsea/Lahnsea/output/pacman-contribution-graph-dark.svg"/>
-
+<img src="https://raw.githubusercontent.com/Lahnsea/Lahnsea/output/dist/pacman-contribution-graph-dark.svg">
 </p>
 
 ---
